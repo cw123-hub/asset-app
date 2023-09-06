@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.webank:webank-blockchain-java-crypto:1.0.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.webank" artifactId="webank-blockchain-java-crypto" version="1.0.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.webank/webank-blockchain-java-crypto/1.0.2/55dacc47d37456e297baac6cdade3efc4207d95c/webank-blockchain-java-crypto-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.webank/webank-blockchain-java-crypto/1.0.2/4288ec593d18949a3674714c62102d6258adadfa/webank-blockchain-java-crypto-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

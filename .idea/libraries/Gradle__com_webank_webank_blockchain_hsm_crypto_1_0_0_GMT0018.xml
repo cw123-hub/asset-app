@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.webank:webank-blockchain-hsm-crypto:1.0.0-GMT0018" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.webank" artifactId="webank-blockchain-hsm-crypto" version="1.0.0-GMT0018" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.webank/webank-blockchain-hsm-crypto/1.0.0-GMT0018/1e91ab1dab13e7d38f8d15262ef017e7f9292d/webank-blockchain-hsm-crypto-1.0.0-GMT0018.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.webank/webank-blockchain-hsm-crypto/1.0.0-GMT0018/3571ad20ec1e04b1031a620490a02ad8cb4c0a1b/webank-blockchain-hsm-crypto-1.0.0-GMT0018-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

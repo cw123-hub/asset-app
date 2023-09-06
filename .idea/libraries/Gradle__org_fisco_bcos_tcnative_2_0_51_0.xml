@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.fisco-bcos:tcnative:2.0.51.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.fisco-bcos" artifactId="tcnative" version="2.0.51.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fisco-bcos/tcnative/2.0.51.0/986db290ef95c45f49083927a66c0e638e862a75/tcnative-2.0.51.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fisco-bcos/tcnative/2.0.51.0/9c94deb9d52356bdd143abf8cdc011688cadc74f/tcnative-2.0.51.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

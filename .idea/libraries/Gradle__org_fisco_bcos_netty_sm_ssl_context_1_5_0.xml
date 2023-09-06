@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.fisco-bcos:netty-sm-ssl-context:1.5.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.fisco-bcos" artifactId="netty-sm-ssl-context" version="1.5.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fisco-bcos/netty-sm-ssl-context/1.5.0/cfe784cf8e132107fa433ea95a6de6f37d46ef86/netty-sm-ssl-context-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fisco-bcos/netty-sm-ssl-context/1.5.0/8a2b75c9a9bfa918eed955bf5e9ccb6a961634d9/netty-sm-ssl-context-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
